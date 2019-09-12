@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Maria Fekolina](https://up.htmlacademy.ru/javascript/18/user/619837).
-* Наставник: `Неизвестно`.
+* Наставник: `Татьяна Москалёва`.
 
 ---
 
